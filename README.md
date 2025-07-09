@@ -1,47 +1,63 @@
-# [Hello, Hello I'm Francisco]
+<h1 align="center">¡Hola! 👋 Soy Francisco Emilio Bello Valdez</h1>
+<p align="center">
+  <strong>DevOps | Cloud Engineer | Entusiasta de la Automatización</strong><br>
+  💻 Construyendo soluciones reproducibles y escalables en la nube
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
+---
+
+## 🚀 Sobre mí
+
+Soy un apasionado por la tecnología con experiencia en prácticas DevOps y entornos cloud. Me gusta automatizar tareas, optimizar pipelines y trabajar con infraestructura como código. En este perfil encontrarás proyectos personales que demuestran mi progreso y compromiso con la mejora continua.
+
+🧠 Actualmente estoy aprendiendo: `Kubernetes`, `Terraform avanzado`, y `MLOps`.
+
+🎯 Objetivo 2025: Obtener una posición como **Cloud Engineer** o **DevOps Specialist** en un entorno dinámico y desafiante.
+
+---
+
+## 🛠️ Tecnologías y herramientas que uso
+
+### 🌐 Cloud & Infraestructura:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### ⚙️ Automatización & CI/CD:
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+
+---
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## ¡Bienvenid@s a la zona onfire de GitHub!
+## 📂 Proyectos destacados
 
-#### 🤔 &nbsp;¿Quién soy? 
+⚠️ *Proyectos próximamente disponibles… Estoy construyendo un portafolio práctico con herramientas del mundo real para compartir aquí.*
 
-Me llamo Rossana Suarez @roxsross y actualmente trabajo como Tech Lead DevOps. Me encanta programar y la tecnología en general, por eso en él hablo de todo esto. 
-De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día a día.
-<br>
+> 🚧 Estoy trabajando en proyectos con:
+- Docker + Microservicios
+- CI/CD con GitHub Actions
+- Terraform en AWS
+- Kubernetes con Minikube y GKE
 
+---
 
-<a href="https://roxs.295devops.com">
-<img align="left" width="20%" src="https://github.com/franciscobellov/Documentacion-Mi_Rincon/blob/main/resultadp.png">
-</a>
-<samp>
-    AWS Hero Container 🚀
-     <br>
-    GITLAB Hero 🚀
-     <br>
-    Docker Captain 🐳
-    <br>
-    AWS Community Builder Program Container ⚡
-    <br> 
-    Speaker and Mentor 🦸‍♀️
-    <br>
-    "No se puede crecer si no estas dispuesto a saltar a la zona del peligro 🔥"
+## 📫 Cómo contactarme
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/francisco-bello-8260a8199/)
+- ✉️ Email: [franciscobello23@outlook.com](mailto:franciscobello23@outlook.com)
+
+---
+
+## 📈 Estadísticas de GitHub (opcional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franciscobello23&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
